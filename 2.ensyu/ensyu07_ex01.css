@@ -1,0 +1,16 @@
+p{
+  text-align: end;
+}
+
+table{
+  border-collapse: collapse;
+  font-size: 1.2rem;
+}
+th{
+  padding: 10px;
+  border: 1px solid #000000;
+}
+td{
+  padding: 10px;
+  border: 1px solid #000000;
+}
